@@ -1,4 +1,4 @@
-<a href="https://www.infracost.io"><img src="https://raw.githubusercontent.com/infracost/infracost/master/assets/logo.svg" width=320 alt="Infracost logo" /></a>
+<a href="https://www.infracost.io"><img src="https://raw.githubusercontent.com/infracost/infracost/master/.github/assets/logo.svg" width=320 alt="Infracost logo" /></a>
 
 <a href="https://www.infracost.io/community-chat"><img alt="Community Slack channel" src="https://img.shields.io/badge/chat-Slack-%234a154b"/></a>
 <a href="https://www.infracost.io/docs/"><img alt="Docs" src="https://img.shields.io/badge/docs-blue"/></a>
@@ -8,7 +8,7 @@
 
 Infracost shows cloud cost estimates for a Terraform project. It helps developers, devops and others to quickly see the cost breakdown and compare different options upfront.
 
-<img src="https://raw.githubusercontent.com/infracost/infracost/master/assets/screenshot.png" width=600 alt="Example Infracost output" />
+<img src="https://raw.githubusercontent.com/infracost/infracost/master/.github/assets/screenshot.png" width=600 alt="Example Infracost output" />
 
 ## Installation
 
